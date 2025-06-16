@@ -1,16 +1,16 @@
-# Book Store Website
+# 📚 Book Store Website
 
 A modern, responsive Book Store web application built with **React**. This project allows users to browse, search, and view details of books. It is designed to provide a smooth and intuitive user experience with clean UI components.
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-- React
-- React Router
-- CSS / SCSS for styling 
+- ⚛️ React
+- 🌐 React Router
+- 🎨 CSS / SCSS for styling 
 ---
 
-## Installation
+## 🚀 Installation
 
 1.Install Dependencies
 ```bash
