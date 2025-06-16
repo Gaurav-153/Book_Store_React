@@ -1,9 +1,26 @@
-# React + Vite
+# Book Store Website
 
-Enjoy the Free code + Assets 😍 
-- Support us on YouTube Channel: https://www.youtube.com/channel/UC1H-a1MKEFXRiFlGNLcy7gQ
+A modern, responsive Book Store web application built with **React**. This project allows users to browse, search, and view details of books. It is designed to provide a smooth and intuitive user experience with clean UI components.
+---
 
-Currently, two official plugins are available:
+## Tech Stack
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- React
+- React Router
+- CSS / SCSS for styling 
+---
+
+## Installation
+
+1.Install Dependencies
+```bash
+npm install
+# or
+yarn install
+```
+2.Start the Development server
+```bash
+npm start
+# or
+yarn start
+```
